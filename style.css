@@ -1,0 +1,140 @@
+.radioButtons{
+    justify-content: center;
+    margin-top: -3%;
+    margin-bottom: 5%;
+}
+#news{
+    background-color: #d7d0c8;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+#twoElephants{
+    width: 100%;
+}
+body {
+    background-color:#95a78d;
+}
+#searchCards{
+    padding-bottom: 5%;
+}
+.btn-primary{
+    background-color:#a44a3f;
+    color:white;
+    border-color: #a44a3f;
+}
+.btn-primary:hover{
+    background-color:white;
+    color:#a44a3f;
+    border-color:#a44a3f;
+}
+
+.btn-secondary{
+    background-color: #a44a3f;
+    border-color: #a44a3f;
+}
+.btn-secondary:hover{
+    background-color:white;
+    color:#a44a3f;
+    border-color:#a44a3f;
+}
+.login{
+    background-color: #d7d0c8;
+    color:#2a2d34;
+}
+a{
+    color:black;
+}
+#signconfirm{
+    background-image: url(images/rhino.jpg);
+    background-size: cover;
+    background-position-y: center;
+}
+#inside{
+    background-color: #d7d0c8;
+    opacity: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+#logout{
+    background-image: url(images/leopard.jpg);
+    background-size: cover;
+    background-position-y: center;
+}
+#logoutInside{
+    background-color: #d7d0c8;
+    opacity: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.footer{
+    background-color: #d7d0c8;
+    color: #a44a3f; 
+    padding-left: 2%;
+   
+   
+}
+
+#searchPageSpecies{
+    background-color: #d7d0c8;
+    text-align: center;
+    padding-top:2%;
+    padding-bottom:2%;
+    margin-bottom:2%;
+    margin-top:2%;
+}
+#searchPageRegion{
+    background-color: #d7d0c8;
+    text-align: center;
+    padding-top:2%;
+    padding-bottom:2%;
+    margin-bottom:2%;
+    margin-top:2%;
+}
+#infoTable{
+    background-color: #d7d0c8;
+}
+.animalTable{
+   
+}
+#infoTable2{
+    margin-top: 2%;
+    background-color: #d7d0c8;
+}
+#infoImage{
+    width:100%;
+}
+#favorite{
+    background-color: #d7d0c8;
+}
+#insideAdded{
+    background-color: #d7d0c8;
+    opacity: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#discoverPage{
+    background-color: #d7d0c8;
+    text-align: center;
+    padding-top:2%;
+    padding-bottom:2%;
+    margin-bottom:2%;
+    margin-top:2%;
+}
+#favoritePage{
+    background-color: #d7d0c8;
+    text-align: center;
+    padding-top:2%;
+    padding-bottom:2%;
+    margin-bottom:2%;
+    margin-top:2%;
+}
